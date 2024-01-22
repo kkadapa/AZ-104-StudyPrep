@@ -2,6 +2,41 @@ Audience Profile for AZ-104 Exam Study Prep:
 
 The target audience for the AZ-104 Microsoft Certified: Azure Administrator Associate exam includes individuals with subject matter expertise in implementing, managing, and monitoring Microsoft Azure environments within organizational settings. Here are key points to note for exam preparation:
 
+You should be familiar with:
+
+    Operating systems
+
+    Networking
+
+    Servers
+
+    Virtualization
+
+In addition, you should have experience with:
+
+    PowerShell
+
+    Azure CLI
+
+    The Azure portal
+
+    Azure Resource Manager templates
+
+    Microsoft Entra ID
+
+Skills at a glance
+
+    Manage Azure identities and governance (20–25%)
+    
+    Implement and manage storage (15–20%)
+    
+    Deploy and manage Azure compute resources (20–25%)
+    
+    Implement and manage virtual networking (15–20%)
+    
+    Monitor and maintain Azure resources (10–15%)
+
+
 1. Role and Expertise:
     Candidates should have experience in implementing and managing an organization's Azure environment.
     Expertise is required across various Azure components, including virtual networks, storage, compute, identity, security, and governance.
