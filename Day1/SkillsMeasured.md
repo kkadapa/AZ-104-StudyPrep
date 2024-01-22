@@ -1,8 +1,8 @@
-Audience Profile for AZ-104 Exam Study Prep:
+# Audience Profile for AZ-104 Exam Study Prep:
 
 The target audience for the AZ-104 Microsoft Certified: Azure Administrator Associate exam includes individuals with subject matter expertise in implementing, managing, and monitoring Microsoft Azure environments within organizational settings. Here are key points to note for exam preparation:
 
-You should be familiar with:
+## You should be familiar with:
 
     Operating systems
 
